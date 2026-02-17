@@ -91,6 +91,26 @@
     </tbody>
   </table>
 </div>
+<br />
+<h3 align="center">👥 Meet Our Team</h3>
+
+<div align="center">
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="center" width="200px">
+        <a href="https://github.com/HaqiKuy470">
+          <img src="https://github.com/HaqiKuy470.png" width="100px" style="border-radius: 50%;" alt="Haqi Avatar"/>
+        </a>
+        <br />
+        <b>Moh Dhiyaulhaq U.</b>
+        <br />
+        <sub>Founder & Lead Developer</sub>
+        <br />
+        <a href="https://github.com/HaqiKuy470"><img src="https://img.shields.io/badge/@HaqiKuy470-gray?style=flat-square&logo=github" alt="GitHub"/></a>
+      </td>
+      </tr>
+  </table>
+</div>
 
 <div align="center">
   <sub>&copy; 2026 Arshaka ID. All Rights Reserved.</sub>
