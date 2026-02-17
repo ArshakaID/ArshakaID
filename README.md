@@ -1,6 +1,8 @@
 <div align="center">
 
-  # Welcome to Arshaka ID 🚀
+  # Welcome to Arshaka Digital ID 
+
+  <img src="logo.png" alt="Arshaka ID Logo" width="500" height="auto" style="margin: 20px 0;" />
   
   **Digital Solutions & Automation Agency**
   
