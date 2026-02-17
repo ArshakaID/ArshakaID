@@ -92,25 +92,49 @@
   </table>
 </div>
 <br />
+<br />
+<br />
 <h3 align="center">👥 Meet Our Team</h3>
 
 <div align="center">
-  <table align="center" style="border: none;">
+  <table align="center" style="border: none;">   
     <tr>
-      <td align="center" width="200px">
-        <a href="https://github.com/HaqiKuy470">
-          <img src="https://github.com/HaqiKuy470.png" width="100px" style="border-radius: 50%;" alt="Haqi Avatar"/>
+      <td align="center" colspan="2"> <a href="https://github.com/HaqiKuy470">
+          <img src="https://github.com/HaqiKuy470.png" width="120px" style="border-radius: 50%;" alt="Haqi Avatar"/>
         </a>
         <br />
         <b>Moh Dhiyaulhaq U.</b>
         <br />
-        <sub>Founder & Lead Developer</sub>
+        <sub>Founder & CEO</sub>
         <br />
         <a href="https://github.com/HaqiKuy470"><img src="https://img.shields.io/badge/@HaqiKuy470-gray?style=flat-square&logo=github" alt="GitHub"/></a>
       </td>
-      </tr>
+    </tr>
+    <tr>
+      <td align="center" width="200px">
+        <a href="https://github.com/USERNAME_CTO"> <img src="https://github.com/USERNAME_CTO.png" width="100px" style="border-radius: 50%;" alt="CTO Avatar"/>
+        </a>
+        <br />
+        <b>Nama CTO</b>
+        <br />
+        <sub>Chief Technology Officer</sub>
+        <br />
+        <a href="https://github.com/USERNAME_CTO"><img src="https://img.shields.io/badge/@USERNAME_CTO-gray?style=flat-square&logo=github" alt="GitHub"/></a>
+      </td>
+      <td align="center" width="200px">
+        <a href="https://github.com/USERNAME_CFO"> <img src="https://github.com/USERNAME_CFO.png" width="100px" style="border-radius: 50%;" alt="CFO Avatar"/>
+        </a>
+        <br />
+        <b>Nama CFO</b>
+        <br />
+        <sub>Chief Financial Officer</sub>
+        <br />
+        <a href="https://github.com/USERNAME_CFO"><img src="https://img.shields.io/badge/@USERNAME_CFO-gray?style=flat-square&logo=github" alt="GitHub"/></a>
+      </td>
+    </tr>
   </table>
 </div>
+
 
 <div align="center">
   <sub>&copy; 2026 Arshaka ID. All Rights Reserved.</sub>
