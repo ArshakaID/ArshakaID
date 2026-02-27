@@ -61,37 +61,6 @@
 
 
 <br />
-<h3 align="center">💼 Our Services</h3>
-
-<div align="center">
-  <table align="center">
-    <thead>
-      <tr>
-        <th align="center">🎓 Pendidikan (Edu & Coding)</th>
-        <th align="center">💻 Jasa Digital (Tech Services)</th>
-        <th align="center">📰 Berita (Media & News)</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>✅ Bimbel Akademik (SMP & SMA)</td>
-        <td>✅ Full-stack Web Development</td>
-        <td>✅ Tech & Crypto News</td>
-      </tr>
-      <tr>
-        <td>✅ Kelas Coding & Programming</td>
-        <td>✅ WhatsApp Bot Automation</td>
-        <td>✅ Market Analysis</td>
-      </tr>
-      <tr>
-        <td>✅ Platform Belajar Online</td>
-        <td>✅ Mobile App Development</td>
-        <td>✅ Business Insights</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<br />
 <br />
 <br />
 <h3 align="center">👥 Meet Our Team</h3>
